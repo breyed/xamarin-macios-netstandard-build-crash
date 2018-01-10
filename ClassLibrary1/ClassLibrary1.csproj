@@ -21,4 +21,8 @@
     <PackageReference Include="Google.Protobuf.Tools" Version="3.5.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary2\ClassLibrary2.csproj" />
+  </ItemGroup>
+
 </Project>

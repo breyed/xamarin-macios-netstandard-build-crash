@@ -1,4 +1,5 @@
-﻿using Foundation;
+﻿using ClassLibrary2;
+using Foundation;
 using UIKit;
 
 namespace IOS
@@ -25,6 +26,12 @@ namespace IOS
 
 			// make the window visible
 			Window.MakeKeyAndVisible();
+
+			var test = new Test();
+			test.ToString();
+
+			var test2 = new Class1();
+			test2.ToString();
 
 			return true;
 		}

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOS", "IOS\IOS.csproj", "{4E29713E-1DBA-4C29-86B4-8770AAB38A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{FB1E4816-1DCD-42A6-BF22-E63EDDE497AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{FB1E4816-1DCD-42A6-BF22-E63EDDE497AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{508FD4C9-438F-4884-A8E2-9129C825FC28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,18 @@ Global
 		{FB1E4816-1DCD-42A6-BF22-E63EDDE497AF}.Release|iPhone.Build.0 = Release|Any CPU
 		{FB1E4816-1DCD-42A6-BF22-E63EDDE497AF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{FB1E4816-1DCD-42A6-BF22-E63EDDE497AF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Release|iPhone.Build.0 = Release|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{508FD4C9-438F-4884-A8E2-9129C825FC28}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
